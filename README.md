@@ -199,7 +199,6 @@ To get the description of this variable (structure), just write `variable?` in s
 #### There might be other things I will add to this library.
 **To do list:**
 serial read and serial write for two arduinos (and esp8266) communicating with each other.
-examples
 
 ------
 
